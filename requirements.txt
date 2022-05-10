@@ -1,7 +1,8 @@
 altair==4.2.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-asttokens==2.0.5Cython==0.18
+asttokens==2.0.5
+Cython==0.18
 Flask==0.9
 Jinja2==2.6
 MDP==3.3
